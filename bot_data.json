@@ -1,0 +1,45 @@
+{
+  "admins": [
+    6068408280
+  ],
+  "super_admins": [
+    6068408280,
+    6068408280
+  ],
+  "free": true,
+  "users": {
+    "6068408280": {
+      "firebases": [],
+      "devices": [],
+      "channels": [],
+      "active": {},
+      "monitoring": false,
+      "fwd": [],
+      "stats": {
+        "sent": 0,
+        "failed": 0,
+        "last": "\u2014"
+      },
+      "expires": null,
+      "added_by": null
+    },
+    "8774572364": {
+      "firebases": [],
+      "devices": [],
+      "channels": [],
+      "active": {},
+      "monitoring": false,
+      "fwd": [],
+      "stats": {
+        "sent": 0,
+        "failed": 0,
+        "last": "\u2014"
+      },
+      "expires": null,
+      "added_by": null
+    }
+  },
+  "timed_users": {},
+  "force_join": [],
+  "banned": []
+}

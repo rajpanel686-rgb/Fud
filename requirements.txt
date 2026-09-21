@@ -1,0 +1,6 @@
+aiogram==3.7.0
+aiohttp
+redis>=5.0
+aiogram==3.7.0
+aiohttp
+redis>=5.0

@@ -1,0 +1,16 @@
+{
+  "functions": {
+    "api/telegram.py": {
+      "maxDuration": 60
+    },
+    "api/cron.py": {
+      "maxDuration": 60
+    }
+  },
+  "crons": [
+    {
+      "path": "/api/cron",
+      "schedule": "* * * * *"
+    }
+  ]
+}
